@@ -1,6 +1,6 @@
 # Joao-Lucas-
 
-<h1 align="center">Olá, eu sou Joao Lucas] 👋</h1>
+<h1 align="center">Olá, eu sou Joao Lucas 👋</h1>
 
 <p align="center">
   <strong>Estudante de Ciência da Computação</strong> • São Paulo, SP 🇧🇷
@@ -59,9 +59,9 @@ Sabesp • [maio/2025] – atual
 
 Fique à vontade para entrar em contato:
 
-- 📧 [seuemail@exemplo.com](mailto:j.l2007pereira@gmail.com)
+- 📧 [j.l2007pereira@gmail.com](mailto:j.l2007pereira@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-lucas-concei%C3%A7%C3%A3o-pereira/)
 
 <p align="center">
-  <sub>Feito com ❤️ por [Joao Lucas]</sub>
+  <sub>Feito por Joao Lucas </sub>
 </p>
