@@ -19,33 +19,29 @@ Sou estudante de Ciência da Computação e atualmente trabalho como **Jovem Apr
 
 - 🎓 Cursando **Ciência da Computação**
 - 💼 Jovem Aprendiz (Assistente Administrativo) na **Sabesp**
-- 🌱 Estudando **[tecnologia que você está aprendendo, ex.: Python, Java, Git]**
+- 🌱 Estudando **Python, HTML, Java, C**
 - 🔭 Em busca de oportunidades de **estágio na área de tecnologia**
-- ⚡ Curiosidade: **[algo divertido sobre você]**
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode,mysql&perline=10" alt="Tecnologias">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,cssperline=10" alt="Tecnologias">
 </p>
-
-> Ajuste a lista em `i=` com o que você realmente usa. Veja os nomes disponíveis em [skillicons.dev](https://skillicons.dev).
 
 ---
 
 ## 💼 Experiência
 
 **Jovem Aprendiz – Assistente Administrativo**
-Sabesp • [maio/2025] – atual
+Sabesp • [maio/2025] – atualmente
 
 - Apoio às rotinas administrativas do setor
 - Organização de documentos e controle de informações
 - Atendimento e comunicação com equipes internas
 - Uso de ferramentas de escritório, como Excel e Word
 
-> Edite as atividades de acordo com o que você faz no dia a dia.
 
 ---
 
